@@ -96,7 +96,7 @@ const Card = () => {
   return (
     <div className="p-4" data-aos="fade-up">
       {/* Filter and Search Inputs Side by Side */}
-      <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4 gap-4">
+      <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4 gap-4 ">
         {/* Category Filter */}
         <div className="flex items-center gap-2">
           <label htmlFor="category-filter" className="font-semibold text-gray-700">Filter by Category:</label>
@@ -121,7 +121,7 @@ const Card = () => {
             placeholder="Search by Title"
             value={searchQuery}
             onChange={handleSearchChange}
-            className="input input-bordered bg-white"
+            className="input input-bordered bg-white focus:border-green"
           />
         </div>
       </div>

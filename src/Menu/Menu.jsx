@@ -205,7 +205,7 @@ const Card = () => {
               placeholder="Search by Title"
               value={searchQuery}
               onChange={handleSearchChange}
-              className="input input-bordered bg-white"
+              className="input input-bordered bg-white focus:border-green"
             />
           </div>
         </div>
