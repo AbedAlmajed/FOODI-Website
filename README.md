@@ -23,8 +23,3 @@ Foodi is a platform designed to offer personalized meals tailored to individual 
 - **Frontend:** HTML, CSS, Tailwind, React
 - **Design:** Figma
 
-## Links
-- **Live Demo:** [Foodi Live Demo](https://foodi-website.vercel.app/)
-- **Design Mockups:** [Figma Design](https://www.figma.com/design/X3ViaUyicJoBDUpqvgttXI/FOODI?node-id=0-1&t=f5bvMmX1uYbQRP2l-0)
-
-
